@@ -24,7 +24,6 @@ Built with the Next.js 14 App Router, Clerk for Auth - with Passkeys, Github and
 - 🖋️ Markdown editor for blog post editing
 - 📱 Responsive design for mobile and desktop
 - 🔄 Real-time updates and path revalidation
-- 🚀 Deployment-ready (likely for Vercel)
 - 🔔 Toast notifications for user feedback
 - 📈 Performance optimizations
 - 🔍 SEO-friendly blog post generation
