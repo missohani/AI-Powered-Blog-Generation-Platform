@@ -2,7 +2,7 @@
 
 Built with the Next.js 14 App Router, Clerk for Auth - with Passkeys, Github and Google Sign in, React, OpenAI - Whisper API, ShadCN UI library for components, React Markdown, NeonDb, UploadThing, Stripe for payments, Webhooks, TypeScript, TailwindCSS and more.
 
-![Project Image](https://www.speakeasyai.dev/og-image.png)
+
 
 ## Features
 
@@ -31,13 +31,7 @@ Built with the Next.js 14 App Router, Clerk for Auth - with Passkeys, Github and
 - 📊 Recent blog posts display
 - 🔐 Protected routes and API endpoints
 
-## Getting started
 
-To get started with this project, you need to do the following,
-
-1. Please fork the repo
-2. Copy the .env.example variables into a separate .env.local file
-3. Create the credentials mentioned in the Youtube tutorial to get started!
 
 ## 1. How to fork and clone
 
